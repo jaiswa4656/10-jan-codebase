@@ -1,0 +1,2 @@
+variable "VNET" {}
+variable "sub" {}
