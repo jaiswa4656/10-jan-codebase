@@ -1,5 +1,5 @@
 resource "azurerm_mssql_server" "example" {
-  name                         = "todosqlserver"
+  name                         = "todosqlserver1924"
   resource_group_name          = "Pradeep-RG"
   location                     = "Centralindia"
   version                      = "12.0"
